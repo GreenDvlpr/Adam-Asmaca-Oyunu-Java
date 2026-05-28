@@ -50,4 +50,4 @@ Yerel Disk (C:) > P2Oyun
 <img width="972" height="737" alt="Ekran görüntüsü 2026-05-28 121009" src="https://github.com/user-attachments/assets/e432240d-2831-43c3-9dca-323b6ca430da" />
 <img width="979" height="745" alt="Ekran görüntüsü 2026-05-28 121015" src="https://github.com/user-attachments/assets/5c6190dc-bcbc-4644-9d7d-4ba9479efec2" />
 
-
+Geliştirici: Bekir Tuna Karamsal
